@@ -1,3 +1,5 @@
 body {
-    background: lightsalmon;
+    text-align: center;
+    text-decoration-color: salmon;
+    background-image: url("https://static01.nyt.com/images/2019/05/29/realestate/00skyline-top/86b2f16d7f7a462c903cea4f134ac440-superJumbo.jpg?quality=75&auto=webp");
   }
